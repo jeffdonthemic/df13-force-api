@@ -10,8 +10,8 @@ You can add an API Key ("df13-force-api-key") to redis with:
 hset api:keys df13-force-api-key jeff
 ```
 
-Then pass the API Key in the header for each call:
+Then pass the API Key in the Authorization header for each call:
 
 ```
-Authorization=Token token="df13-force-api-key"
+Token="df13-force-api-key"
 ```
