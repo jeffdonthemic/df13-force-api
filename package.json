@@ -14,7 +14,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "actionHero": "6.4.0",
+    "actionHero": "6.3.0",
     "nforce": "~0.5.2",
     "forcifier": "0.0.3",
     "request": "~2.27.0",
