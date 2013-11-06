@@ -1,6 +1,6 @@
 # Build your API with Force.com & Heroku
 
-My Dreamforce 13 demo app. There are three branches which the demo follows. The 'final' branch is the final application.
+My Dreamforce 13 demo app. 
 
 ## API Keys
 
